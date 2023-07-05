@@ -1,0 +1,256 @@
+[2023-07-03 08:29:02] codecanyon.ERROR: Class "Froiden\RestAPI\Providers\ApiServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Froiden\\RestAPI\\Providers\\ApiServiceProvider\" not found at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+[2023-07-03 08:34:11] codecanyon.ERROR: Class "Froiden\RestAPI\Providers\ApiServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Froiden\\RestAPI\\Providers\\ApiServiceProvider\" not found at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+"} 
+[2023-07-03 08:34:11] codecanyon.ERROR: Target class [view] does not exist. {"exception":"[object] (Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target class [view] does not exist. at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:891)
+[stacktrace]
+
+[2023-07-03 09:25:53] codecanyon.ERROR: Uncaught ReflectionException: Class "view" does not exist in C:\xampp\htdocs\workstat\vendor\laravel\framework\src\Illuminate\Container\Container.php:889
+Stack trace:
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in C:\xampp\htdocs\workstat\vendor\laravel\framework\src\Illuminate\Container\Container.php:891
+Stack trace:
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"view\" does not exist in C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:889
+Stack trace:
+Next Illuminate\\Contracts\\Container\\BindingResolutionException: Target class [view] does not exist. in C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:891
+Stack trace:
+[2023-07-03 09:28:44] codecanyon.ERROR: Class "Froiden\RestAPI\Providers\ApiServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Froiden\\RestAPI\\Providers\\ApiServiceProvider\" not found at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace] 
+"} 
+[2023-07-03 09:33:53] codecanyon.ERROR: Class "Froiden\RestAPI\Providers\ApiServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Froiden\\RestAPI\\Providers\\ApiServiceProvider\" not found at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace] 
+"} 
+[2023-07-03 09:38:32] codecanyon.ERROR: Class "Froiden\RestAPI\Providers\ApiServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Froiden\\RestAPI\\Providers\\ApiServiceProvider\" not found at C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace] 
+"} 
+[2023-07-03 10:04:18] codecanyon.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php:624)
+[stacktrace]  
+"} 
+[2023-07-03 10:18:19] codecanyon.ERROR: Class "Yajra\DataTables\Services\DataTable" not found {"userId":1,"exception":"[object] (Error(code: 0): Class \"Yajra\\DataTables\\Services\\DataTable\" not found at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\BaseDataTable.php:8)
+[stacktrace] [2023-07-03 10:22:13] codecanyon.ERROR: Class "Yajra\DataTables\Services\DataTable" not found {"userId":1,"exception":"[object] (Error(code: 0): Class \"Yajra\\DataTables\\Services\\DataTable\" not found at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\BaseDataTable.php:8)
+[stacktrace]
+
+
+[2023-07-03 10:25:04] codecanyon.ERROR: Class "Yajra\DataTables\Services\DataTable" not found {"userId":1,"exception":"[object] (Error(code: 0): Class \"Yajra\\DataTables\\Services\\DataTable\" not found at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\BaseDataTable.php:8)
+[stacktrace][2023-07-03 10:51:59] codecanyon.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php:624)
+[stacktrace]
+
+[2023-07-03 10:54:52] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 10:55:14] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:02:26] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+==================================
+
+[2023-07-03 11:03:41] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:06:35] codecanyon.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php:624)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(675): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(259): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(155): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\xampp\\htdocs\\workstat\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-03 11:09:27] codecanyon.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php:624)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(675): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(259): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\xampp\\htdocs\\workstat\\vendor\\symfony\\console\\Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\workstat\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(155): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\xampp\\htdocs\\workstat\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-03 11:25:30] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:34:39] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\CompanyDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\CompanyDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\CompanyDataTable.php:277)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:39:24] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\PackageDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\PackageDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\PackageDataTable.php:201)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:41:09] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\InvoiceDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\InvoiceDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\InvoiceDataTable.php:163)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 11:42:06] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\SuperAdminDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\SuperAdminDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\SuperAdminDataTable.php:130)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 12:34:29] codecanyon.ERROR: Declaration of App\DataTables\EmployeesDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\EmployeesDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\EmployeesDataTable.php:362)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 12:36:09] codecanyon.ERROR: Declaration of App\DataTables\LeaveDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\LeaveDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\LeaveDataTable.php:380)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:12:56] codecanyon.ERROR: Declaration of App\DataTables\HolidayDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\HolidayDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\HolidayDataTable.php:172)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:19:39] codecanyon.ERROR: Declaration of App\DataTables\DesignationDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\DesignationDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\DesignationDataTable.php:194)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:28:22] codecanyon.ERROR: Declaration of App\DataTables\DepartmentDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\DepartmentDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\DepartmentDataTable.php:193)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:28:48] codecanyon.ERROR: Declaration of App\DataTables\AppreciationsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\AppreciationsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\AppreciationsDataTable.php:244)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:31:45] codecanyon.ERROR: Declaration of App\DataTables\ClientsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ClientsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ClientsDataTable.php:273)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:36:53] codecanyon.ERROR: Declaration of App\DataTables\LeadsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\LeadsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\LeadsDataTable.php:461)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:38:00] codecanyon.ERROR: Declaration of App\DataTables\ContractsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ContractsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ContractsDataTable.php:308)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:38:46] codecanyon.ERROR: Declaration of App\DataTables\ProjectsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProjectsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProjectsDataTable.php:485)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:40:10] codecanyon.ERROR: Declaration of App\DataTables\TasksDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\TasksDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\TasksDataTable.php:596)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:40:39] codecanyon.ERROR: Declaration of App\DataTables\TimeLogsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\TimeLogsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\TimeLogsDataTable.php:398)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:44:02] codecanyon.ERROR: Declaration of App\DataTables\ProposalDataTable::ajax(): string must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProposalDataTable::ajax(): string must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProposalDataTable.php:130)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:45:34] codecanyon.ERROR: Declaration of App\DataTables\ProposalDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProposalDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProposalDataTable.php:130)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:48:14] codecanyon.ERROR: Declaration of App\DataTables\ProposalDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProposalDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProposalDataTable.php:224)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:48:54] codecanyon.ERROR: Could not check compatibility between App\DataTables\ProposalDataTable::ajax(): App\DataTables\Illuminate\Http\JsonResponse and Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse, because class App\DataTables\Illuminate\Http\JsonResponse is not available {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Could not check compatibility between App\\DataTables\\ProposalDataTable::ajax(): App\\DataTables\\Illuminate\\Http\\JsonResponse and Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse, because class App\\DataTables\\Illuminate\\Http\\JsonResponse is not available at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProposalDataTable.php:130)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:50:29] codecanyon.ERROR: Declaration of App\DataTables\ProposalTemplateDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProposalTemplateDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProposalTemplateDataTable.php:164)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:51:25] codecanyon.ERROR: Declaration of App\DataTables\EstimatesDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\EstimatesDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\EstimatesDataTable.php:189)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:53:14] codecanyon.ERROR: Declaration of App\DataTables\EstimatesDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\EstimatesDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\EstimatesDataTable.php:340)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:53:40] codecanyon.ERROR: Could not check compatibility between App\DataTables\EstimatesDataTable::ajax(): App\DataTables\Illuminate\Http\JsonResponse and Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse, because class App\DataTables\Illuminate\Http\JsonResponse is not available {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Could not check compatibility between App\\DataTables\\EstimatesDataTable::ajax(): App\\DataTables\\Illuminate\\Http\\JsonResponse and Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse, because class App\\DataTables\\Illuminate\\Http\\JsonResponse is not available at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\EstimatesDataTable.php:189)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:54:24] codecanyon.ERROR: Declaration of App\DataTables\EstimateTemplateDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\EstimateTemplateDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\EstimateTemplateDataTable.php:154)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:55:40] codecanyon.ERROR: Declaration of App\DataTables\InvoicesDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\InvoicesDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\InvoicesDataTable.php:353)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:57:18] codecanyon.ERROR: Declaration of App\DataTables\InvoiceRecurringDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\InvoiceRecurringDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\InvoiceRecurringDataTable.php:290)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:58:03] codecanyon.ERROR: Declaration of App\DataTables\PaymentsDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\PaymentsDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\PaymentsDataTable.php:162)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 13:58:59] codecanyon.ERROR: Declaration of App\DataTables\CreditNotesDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\CreditNotesDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\CreditNotesDataTable.php:257)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:01:02] codecanyon.ERROR: Declaration of App\DataTables\ExpensesDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ExpensesDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ExpensesDataTable.php:198)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:01:46] codecanyon.ERROR: Declaration of App\DataTables\RecurringExpensesDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\RecurringExpensesDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\RecurringExpensesDataTable.php:211)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:04:18] codecanyon.ERROR: Declaration of App\DataTables\BankAccountDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\BankAccountDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\BankAccountDataTable.php:263)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:06:23] codecanyon.ERROR: Declaration of App\DataTables\ProductsDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ProductsDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ProductsDataTable.php:240)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:17:54] codecanyon.ERROR: Declaration of App\DataTables\OrdersDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\OrdersDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\OrdersDataTable.php:178)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:20:22] codecanyon.ERROR: Declaration of App\DataTables\OrdersDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\OrdersDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\OrdersDataTable.php:178)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:21:09] codecanyon.ERROR: Declaration of App\DataTables\TicketDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\TicketDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\TicketDataTable.php:365)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:24:35] codecanyon.ERROR: Declaration of App\DataTables\NoticeBoardDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\NoticeBoardDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\NoticeBoardDataTable.php:196)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:26:01] codecanyon.ERROR: Declaration of App\DataTables\TaskReportDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\TaskReportDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\TaskReportDataTable.php:276)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:29:18] codecanyon.ERROR: Declaration of App\DataTables\TimeLogReportDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\TimeLogReportDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\TimeLogReportDataTable.php:269)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:29:52] codecanyon.ERROR: Declaration of App\DataTables\FinanceReportDataTable::ajax() must be compatible with Yajra\DataTables\Services\DataTable::ajax(): Illuminate\Http\JsonResponse {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\FinanceReportDataTable::ajax() must be compatible with Yajra\\DataTables\\Services\\DataTable::ajax(): Illuminate\\Http\\JsonResponse at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\FinanceReportDataTable.php:83)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:31:14] codecanyon.ERROR: Declaration of App\DataTables\LeaveReportDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\LeaveReportDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\LeaveReportDataTable.php:158)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:32:24] codecanyon.ERROR: Declaration of App\DataTables\AttendanceReportDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\AttendanceReportDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\AttendanceReportDataTable.php:206)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:33:14] codecanyon.ERROR: Declaration of App\DataTables\ExpenseReportDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\ExpenseReportDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\ExpenseReportDataTable.php:184)
+[stacktrace]
+#0 {main}
+"} 
+[2023-07-03 14:50:38] codecanyon.ERROR: Declaration of App\DataTables\SuperAdmin\OfflinePlanChangeDataTable::filename() must be compatible with Yajra\DataTables\Services\DataTable::filename(): string {"userId":3,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\DataTables\\SuperAdmin\\OfflinePlanChangeDataTable::filename() must be compatible with Yajra\\DataTables\\Services\\DataTable::filename(): string at C:\\xampp\\htdocs\\workstat\\app\\DataTables\\SuperAdmin\\OfflinePlanChangeDataTable.php:176)
+[stacktrace]
+#0 {main}
+"} 

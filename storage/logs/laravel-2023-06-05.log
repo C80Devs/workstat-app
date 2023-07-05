@@ -1,0 +1,35 @@
+[2023-06-05 23:00:16] codecanyon.ERROR: Client error: `GET https://free.currconv.com/api/v7/convert?q=USD_USD&compact=ultra&apiKey=` resulted in a `400 Bad Request` response:
+{"status":400,"error":"Free API Key is required. Obtain your free API key at https://free.currencyconverterapi.com"}
+ {"exception":"[object] (GuzzleHttp\Exception\ClientException(code: 400): Client error: `GET https://free.currconv.com/api/v7/convert?q=USD_USD&compact=ultra&apiKey=` resulted in a `400 Bad Request` response:
+{\"status\":400,\"error\":\"Free API Key is required. Obtain your free API key at https://free.currencyconverterapi.com\"}
+ at /var/www/html/worksuite/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113)
+[stacktrace]
+#0 /var/www/html/worksuite/vendor/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create()
+#1 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+#2 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler()
+#3 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run()
+#5 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /var/www/html/worksuite/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /var/www/html/worksuite/vendor/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /var/www/html/worksuite/app/Console/Commands/UpdateExchangeRates.php(47): GuzzleHttp\Client->request()
+#11 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(235): App\Console\Commands\UpdateExchangeRates->App\Console\Commands\{closure}()
+#12 /var/www/html/worksuite/app/Console/Commands/UpdateExchangeRates.php(46): Illuminate\Support\Collection->each()
+#13 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\Console\Commands\UpdateExchangeRates->handle()
+#14 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#15 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\Container\Util::unwrapIfClosure()
+#16 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\Container\BoundMethod::callBoundMethod()
+#17 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\Container\BoundMethod::call()
+#18 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\Container\Container->call()
+#19 /var/www/html/worksuite/vendor/symfony/console/Command/Command.php(291): Illuminate\Console\Command->execute()
+#20 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\Component\Console\Command\Command->run()
+#21 /var/www/html/worksuite/vendor/symfony/console/Application.php(1014): Illuminate\Console\Command->run()
+#22 /var/www/html/worksuite/vendor/symfony/console/Application.php(301): Symfony\Component\Console\Application->doRunCommand()
+#23 /var/www/html/worksuite/vendor/symfony/console/Application.php(171): Symfony\Component\Console\Application->doRun()
+#24 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\Component\Console\Application->run()
+#25 /var/www/html/worksuite/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\Console\Application->run()
+#26 /var/www/html/worksuite/artisan(35): Illuminate\Foundation\Console\Kernel->handle()
+#27 {main}
+"} 
