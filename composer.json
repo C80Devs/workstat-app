@@ -84,7 +84,8 @@
         "nunomaduro/collision": "^6.1",
         "nunomaduro/larastan": "^2.1.12",
         "phpro/grumphp": "^1.4",
-        "phpunit/phpunit": "^9.5.10"
+        "phpunit/phpunit": "^9.5.10",
+        "ext-intl": "*"
     },
     "repositories": [
         {
