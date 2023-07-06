@@ -82,10 +82,10 @@
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^6.1",
+        "ext-intl": "*",
         "nunomaduro/larastan": "^2.1.12",
         "phpro/grumphp": "^1.4",
-        "phpunit/phpunit": "^9.5.10",
-        "ext-intl": "*"
+        "phpunit/phpunit": "^9.5.10"
     },
     "repositories": [
         {

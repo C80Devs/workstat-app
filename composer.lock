@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5c3644d1c09e569c6f82daf22a1478f4",
+    "content-hash": "8af16ea6eb14c07462cd82be1a077295",
     "packages": [
         {
             "name": "accentinteractive/laravel-logcleaner",
