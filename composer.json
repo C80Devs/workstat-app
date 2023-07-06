@@ -10,6 +10,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.1 || ^8.0.2",
+        "ext-intl": "*",
         "accentinteractive/laravel-logcleaner": "^1.1",
         "authorizenet/authorizenet": "^2.0",
         "barryvdh/laravel-dompdf": "^2.0.0",
@@ -82,7 +83,6 @@
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^6.1",
-        "ext-intl": "*",
         "nunomaduro/larastan": "^2.1.12",
         "phpro/grumphp": "^1.4",
         "phpunit/phpunit": "^9.5.10"
