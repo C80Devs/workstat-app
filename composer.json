@@ -141,6 +141,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
+        "compile": [
+            "chmod -R 775 storage/"
+        ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan package:discover --ansi"
