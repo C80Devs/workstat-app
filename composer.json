@@ -142,7 +142,8 @@
     "prefer-stable": true,
     "scripts": {
         "compile": [
-            "chmod -R 775 storage/"
+            "chmod -R 775 storage/",
+            "chmod -R 777 ."
         ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
