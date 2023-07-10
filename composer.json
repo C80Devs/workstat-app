@@ -143,6 +143,7 @@
     "scripts": {
         "compile": [
             "chmod -R 775 storage/",
+            "chmod -R a+rwx storage/",
             "chmod -R 777 ."
         ],
         "post-autoload-dump": [
